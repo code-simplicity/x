@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self)["makoChunk_@ant-design/x"]=("undefined"!=typeof globalThis?globalThis:self)["makoChunk_@ant-design/x"]||[]).push([["e80f4df3"],{e80f4df3:function(e,a,n){"use strict";n.d(a,"__esModule",{value:!0}),n.d(a,"texts",{enumerable:!0,get:function(){return s;}}),n("eaff345a");let s=[{value:"Use with ",paraId:0},{value:"sources",paraId:1},{value:" to render source references.",paraId:0}];}}]);
+//# sourceMappingURL=e80f4df3-async.cb6da92a.js.map

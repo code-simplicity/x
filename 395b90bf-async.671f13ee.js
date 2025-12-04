@@ -1,0 +1,2 @@
+(("undefined"!=typeof globalThis?globalThis:self)["makoChunk_@ant-design/x"]=("undefined"!=typeof globalThis?globalThis:self)["makoChunk_@ant-design/x"]||[]).push([["395b90bf"],{"395b90bf":function(e,a,n){"use strict";n.d(a,"__esModule",{value:!0}),n.d(a,"texts",{enumerable:!0,get:function(){return l;}}),n("922ecf58");let l=[{value:"Works with ",paraId:0},{value:"Think",paraId:1},{value:" to automatically open during streaming and automatically close after streaming ends.",paraId:0}];}}]);
+//# sourceMappingURL=395b90bf-async.671f13ee.js.map
